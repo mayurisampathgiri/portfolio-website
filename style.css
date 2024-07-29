@@ -153,7 +153,7 @@ section {
   height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
-  min-height: fit-content;
+  /* min-height: 80vh; */
 }
 
 .section-container {
@@ -387,6 +387,7 @@ article .icon {
 /* CONTACT */
 
 #contact {
+  padding-bottom: 10vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
